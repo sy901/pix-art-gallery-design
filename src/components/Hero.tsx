@@ -62,7 +62,7 @@ const Hero = () => {
               <div className="grid grid-cols-3 gap-4">
                 <div className="bg-pastel-blue/20 rounded-lg p-4 text-center">
                   <div className="w-8 h-8 bg-pastel-blue rounded-full mx-auto mb-2"></div>
-                  <span className="text-sm font-medium">AR Filter</span>
+                  <span className="text-sm font-medium">Custom </span>
                 </div>
                 <div className="bg-pastel-pink/20 rounded-lg p-4 text-center">
                   <div className="w-8 h-8 bg-pastel-pink rounded-full mx-auto mb-2"></div>
